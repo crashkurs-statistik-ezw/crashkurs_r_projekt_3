@@ -31,6 +31,9 @@
 #   Wohlgefühl der Proband*innen vor und nach dem Test unterscheidet.
 #   Subtrahiere hierfür h_c_pre von h_c_post
 # * Nenne die neue Variable h_c_difference
+# * Füge eine neue Variable hinzu, die anzeigt, wie sich der Anteil der richtigen
+#   Aufgaben vom ersten bis zum letzten Test verändert hat
+# * Nenne die neue Variable pc_difference
 # * Speichere den bereinigten Datensatz in der Variable 
 #   spacing_piano_data_cleaned
 
